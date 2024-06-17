@@ -5,4 +5,5 @@ export default defineConfig({
     plugins: [
         glsl()
     ],
+    base: '/shery3js-project/',
 });
